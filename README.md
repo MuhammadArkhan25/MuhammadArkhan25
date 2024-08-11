@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @MuhammadArkhan25
-- 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Data with AI
-- 💞️ I’m looking to collaborate on FB
-- 📫 How to reach me IG
-- 😄 Pronouns: Arkhan
-- ⚡ Fun fact: Introvert Garis Keras
+# Hi there, I'm Muhammad Arkhan Doohan 👋
 
-<!---
-MuhammadArkhan25/MuhammadArkhan25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Analyst at PT United Tractors Tbk with a background in Social Anthropology. I'm passionate about data science and always eager to learn new technologies and methods in this field.
+
+- 🔭 I’m currently working on [Global Data on Sustainable Energy (2000-2020)](link to project)
+- 🌱 I’m currently learning Machine Learning and Time Series Forecasting
+- 💬 Ask me about Data Analysis, Machine Learning, and Visualization
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/username/) | [Email](mailto:username@example.com)
+- ⚡ Fun fact: I love exploring cultural diversity and its impact on technology adoption.
